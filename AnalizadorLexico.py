@@ -8,6 +8,7 @@ cpp_keywords = {
     'catch', 'throw', 'namespace', 'using', 'include', 'define', 'template','cout',
     'endl','string', 'bool', 'using', 'iostream' ,'std', 'main'
 }
+#Amo a mark
 
 cpp_end = {
     ';','.',','
