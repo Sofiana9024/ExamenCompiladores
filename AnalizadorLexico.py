@@ -75,4 +75,4 @@ print("Numero de palabras reservadas: ", countRes)
 print("Numero de valores numericos en el codigo: ", countNum) #ME MARCA UN NUMERO MAS PERO NO SE DONDEEE 
 print("Numero de delimitadores en el codigo: ", countDel) 
 print("Numero de operadores en el codigo: ", countOpe) 
-print("Numero de contenedores en el codigo: ", countCont/2) 
+print("Numero de contenedores en el codigo: ", countCont/2) #se divide entre 2 porque cada par hace 1 contenedor 
